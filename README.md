@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Sawant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently exploring the **MERN stack, crafting dynamic, scalable, and user-friendly web applications that bring ideas to life!** 🚀
+- 🌱 I’m currently exploring the **MERN stack, crafting dynamic, scalable, and user-friendly web applications that bring ideas to life!**
 
 - 💬 Ask me about **react,javascript,wordpress,photoshop**
 
